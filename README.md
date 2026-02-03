@@ -1,4 +1,4 @@
-# AI Coach Cowork【AI共創教練X專案管理】
+# AI Cowork Coach【AI共創教練X專案管理】
 # 作者：楊健宇
 # email:cht.ranview@gmail.com
 #更新日期：2026/2/2
