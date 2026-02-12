@@ -1,12 +1,13 @@
 # AI Cowork Coach【AI共創教練X專案管理】
 # 作者：楊健宇
 # email:cht.ranview@gmail.com
-#更新日期：2026/2/2
+#更新日期：2026/2/11
 
-- [2026/2/2 initial]
-介紹利用AI IDE(VS Code/Cursor/Antigravity)透過AI Agent(或Plan)進行AI Codeing(或稱Vibe Coding)，從零到有建立一個真正的商業網站。
 - [2026/2/11 update]
 更新【0】&【5】簡報。
+- [2026/2/2 initial]
+介紹利用AI IDE(VS Code/Cursor/Antigravity)透過AI Agent(或Plan)進行AI Codeing(或稱Vibe Coding)，從零到有建立一個真正的商業網站。
+
 
 # 《課程內容有》：
 - 【0】AI Coding前置作業
